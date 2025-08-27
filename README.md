@@ -71,6 +71,11 @@ streamlit run chatbot.py
 ```
 
 ---
+## Sample outputs
+https://files.slack.com/files-pri/T08C9B11L31-F0981E2KQFQ/screenshot_2025-07-30_152624.png
+https://files.slack.com/files-pri/T08C9B11L31-F098KLK1FPT/screenshot_2025-07-30_152737.png
+https://files.slack.com/files-pri/T08C9B11L31-F09834G3BEZ/screenshot_2025-07-30_152815.png
+---
 
 ## 📷 Example Workflow
 
