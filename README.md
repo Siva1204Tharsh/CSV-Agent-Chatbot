@@ -72,9 +72,13 @@ streamlit run chatbot.py
 
 ---
 ## Sample outputs
-https://files.slack.com/files-pri/T08C9B11L31-F0981E2KQFQ/screenshot_2025-07-30_152624.png
-https://files.slack.com/files-pri/T08C9B11L31-F098KLK1FPT/screenshot_2025-07-30_152737.png
-https://files.slack.com/files-pri/T08C9B11L31-F09834G3BEZ/screenshot_2025-07-30_152815.png
+<img width="1906" height="938" alt="Screenshot 2025-07-30 152815" src="https://github.com/user-attachments/assets/58a7e4f8-c415-4deb-9746-a9a6ba086100" />
+
+<img width="1919" height="949" alt="Screenshot 2025-07-30 152737" src="https://github.com/user-attachments/assets/f39ba9ec-c3b9-4c42-a61f-c103890c1e14" />
+
+<img width="1895" height="918" alt="Screenshot 2025-07-30 152624" src="https://github.com/user-attachments/assets/fb9fd79d-6584-4978-a3d3-421800cf1c67" />
+
+
 ---
 
 ## 📷 Example Workflow
